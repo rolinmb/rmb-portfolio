@@ -166,10 +166,18 @@ header a:focus {
 }
 
 .projects-slist a {
-	color: #4836eb;
+	color: #7edbf2;
 }
 
-.projects-list a:hover {
+.projects-list a:hover{
+	color: #b0009b;
+}
+
+.projects-list a:visited {
+	color: #3870f2;
+}
+
+.projects-list a:visited:hover {
 	color: #b0009b;
 }
 
@@ -251,10 +259,14 @@ footer {
 }
 
 footer a {
-	color: #4836eb;
+	color: #7edbf2;
 }
 
-footer a:hover {
+footer a:vistied {
+	color: #3870f2;
+}
+
+footer a:visited:hover {
 	color: #b0009b;
 }
 
